@@ -1,0 +1,30 @@
+#container{
+    width: 80vw;
+    max-width: 1200px;
+    min-width: 300px;
+    margin: 0 auto;
+  }
+  
+  .text-content{
+    font-size: 1.2em;
+  }
+  
+  body {
+    background-color:	#b6cdc7; 
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+    font-size: 15px;
+  }
+  
+  
+  h1, h2 { 
+  font-family: Optima, sans-serif; 
+  }
+  
+  h1{border-style: solid;}
+  p{color: #7c9e9d;
+  }
+  h2{color: #556e68;}
+  a{color: #293535;}
+  a:hover{color: yellow; text-decoration: none;}
